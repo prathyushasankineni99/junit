@@ -1,6 +1,6 @@
 package com.example.tddjunit;
 
-public class demo{
+public class First2AChars.java{
 
 	public String removeAChars(String string) {
 		
